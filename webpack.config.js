@@ -11,7 +11,7 @@ var config = {
     ]
   },
   output: {
-    library: 'ObservableRouter',
+    library: 'SnabbdomRxUtils',
     libraryTarget: 'umd',
     path: './browser',
     filename: 'observable-router.min.js'
